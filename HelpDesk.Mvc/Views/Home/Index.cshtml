@@ -1,0 +1,24 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Help Desk</title>
+</head>
+<body>
+    <div>
+        @if (ViewBag.CodUsuarioLogado != null && ViewBag.CodNivelPessoa == 1)
+        {
+            @Html.Partial("~/Views/Pessoas/_Cadastro.cshtml")
+        }
+        else
+        {
+            @Html.Partial("~/Views/Home/Login.cshtml") //redirecionar para login?
+        }
+    </div>
+</body>
+</html>

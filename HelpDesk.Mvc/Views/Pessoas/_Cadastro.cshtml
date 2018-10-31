@@ -1,0 +1,32 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" type="css"/>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cadastro de Usuário</title>
+</head>
+<body>
+  
+    <div class="form-group">
+        <form id="cadastro-pessoas" action="/Pessoas/Cadastro" method="post">
+            Matricula: <input type="text" id="MATRICULA" name="MATRICULA" value="12"/>
+            Nome: <input type="text" id="NOME" name="NOME" value="amanda"/>
+            Email: <input type="text" id="EMAIL" name="EMAIL" value="teste@teste.com"/> 
+            Login: <input type="text" id="LOGIN" name="LOGIN" value="amanda"/>
+            Senha:<input type="text" id="SENHA" name="SENHA" value="123" />
+            Acesso: <input type="text" id="ACESSO" name="ACESSO" value="todos"/> <!-- aqui deverá ser um select -->
+            Endereco: <input type="text" id="ENDERECO" name="ENDERECO" value="Rua Orlando Bismara, 221" />
+            CPF: <input type="text" id="CPF" name="CPF" value="40266855865" />
+            CNPJ: <input type="text" id="CNPJ" name="CNPJ" />
+            Telefone: <input type="text" id="TELEFONE" name="TELEFONE" value="15997278030"/>
+            Nível: <input type="text" id="COD_NIVEL" name="COD_NIVEL" value="4" /> <!-- aqui deverá ser um select -->
+            <input type="submit" value="Enviar" />
+        </form>
+    </div>
+</body>
+</html>

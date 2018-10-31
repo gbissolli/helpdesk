@@ -1,0 +1,9 @@
+D:\Projetos\HelpDesk\HelpDesk.Repository\bin\Debug\netstandard2.0\HelpDesk.Repository.deps.json
+D:\Projetos\HelpDesk\HelpDesk.Repository\bin\Debug\netstandard2.0\HelpDesk.Repository.dll
+D:\Projetos\HelpDesk\HelpDesk.Repository\obj\Debug\netstandard2.0\HelpDesk.Repository.csprojAssemblyReference.cache
+D:\Projetos\HelpDesk\HelpDesk.Repository\obj\Debug\netstandard2.0\HelpDesk.Repository.csproj.CoreCompileInputs.cache
+D:\Projetos\HelpDesk\HelpDesk.Repository\obj\Debug\netstandard2.0\HelpDesk.Repository.AssemblyInfoInputs.cache
+D:\Projetos\HelpDesk\HelpDesk.Repository\obj\Debug\netstandard2.0\HelpDesk.Repository.AssemblyInfo.cs
+D:\Projetos\HelpDesk\HelpDesk.Repository\bin\Debug\netstandard2.0\HelpDesk.Repository.pdb
+D:\Projetos\HelpDesk\HelpDesk.Repository\obj\Debug\netstandard2.0\HelpDesk.Repository.dll
+D:\Projetos\HelpDesk\HelpDesk.Repository\obj\Debug\netstandard2.0\HelpDesk.Repository.pdb
